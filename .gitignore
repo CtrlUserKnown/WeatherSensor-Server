@@ -2,3 +2,8 @@
 **/.DS_Store
 
 HELP.md
+.vscode
+.gradle
+
+*.swp
+**/*.swp
